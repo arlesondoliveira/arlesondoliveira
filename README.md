@@ -1,7 +1,7 @@
 ### *Olá, Me chamo Arleson Olveira, estudante de mecatrônica, aspirante a desenvolvedor de sistemas embarcado/linux embarcado.* 👋
 ![Bem vindo!](https://github.com/arlesondoliveira/arlesondoliveira/blob/main/Header.png)
 <div style="display: inline_block"><br>
-    <img align="center" alt="Arle-C" height="30" width="40" src="/home/arleson/arlesondoliveira/c-original.svg">
+    <img align="center" alt="Arle-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 <div>
     <a href="https://www.linkedin.com/in/arleson-oliveira-20194a172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
