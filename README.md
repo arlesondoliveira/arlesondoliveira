@@ -1,9 +1,9 @@
 ### *Olá, Me chamo Arleson Olveira, estudante de mecatrônica, aspirante a desenvolvedor de sistemas embarcado/linux embarcado.* 👋
 ![Bem vindo!](https://github.com/arlesondoliveira/arlesondoliveira/blob/main/Header.png)
 <div style="display: inline_block"><br>
-    <img align="center" alt="Arle-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Arle-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg">
-    <img align="center" alt="Arle-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Arle-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Arle-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg">
+    <img align="center" alt="Arle-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ##
