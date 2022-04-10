@@ -1,4 +1,4 @@
-### *Olá, Me chamo Arleson Olveira, estudante de mecatrônica, aspirante a desenvolvedor de sistemas embarcado/linux embarcado.* 👋
+### *Olá, Me chamo Arleson Olveira, entusiasta maker, estudante de mecatrônica, aspirante a desenvolvedor de sistemas embarcado. Bem vindo!!* 👋
 ![Bem vindo!](https://github.com/arlesondoliveira/arlesondoliveira/blob/main/Header.png)
 
 ##
